@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayur Tikle</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Application developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayurtikle24](https://github.com/Mayurtikle24)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter and Android**
 
 - 📫 How to reach me **mayurtikle24@gmail.com**
 
